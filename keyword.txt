@@ -1,0 +1,8 @@
+L298N KEYWORD1
+Motor KEYWORD2
+setDirection KEYWORD3
+setSpeed KEYWORD4
+Dynamic_control KEYWORD5
+dSmoothRun KEYWORD6
+dReversald KEYWORD7
+dSmoothStop KEYWORD8
